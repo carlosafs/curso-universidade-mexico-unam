@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1557840013006.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "242654171",
+    "id" : "3BF6F291",
+    "lastKnownWriteTime" : 1557844206,
+    "last_content_update" : 1557844206378,
+    "path" : "~/CURSOS DATA SCIENCE/introdução a data science - estatística - Universidade do México/Introducción a Data Science Programación Estadística con R/datas-e-horas.R",
+    "project_path" : "datas-e-horas.R",
+    "properties" : {
+        "cursorPosition" : "94,0",
+        "scrollLine" : "34",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
