@@ -1,0 +1,9 @@
+
+
+
+install_course_github("ifunam", "programacion-estadistica-r")
+
+library("swirl")
+select_language()
+
+swirl

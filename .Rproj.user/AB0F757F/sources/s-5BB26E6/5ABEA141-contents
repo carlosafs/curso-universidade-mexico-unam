@@ -1,0 +1,29 @@
+
+# ler e escrever dados
+
+# read.table e white.table mais importantes
+# funcoes mais importantes
+#  file
+#  header
+#  sep
+#  colClasses
+#  nrows
+#  comment.char
+#  skip
+#  stringsAsFactor
+
+# EXEMPLOS
+
+
+inicial <- read.table("datos.txt", nrows = 100)
+classes <- sapply(inicial, class)
+classes
+
+
+
+
+
+
+
+
+
