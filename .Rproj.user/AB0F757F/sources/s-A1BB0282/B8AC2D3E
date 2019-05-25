@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558820450188.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B8AC2D3E",
+    "lastKnownWriteTime" : 1558822189,
+    "last_content_update" : 1558822189847,
+    "path" : "~/CURSOS DATA SCIENCE/introdução a data science - estatística - Universidade do México/Introducción a Data Science Programación Estadística con R/funcoes-em-R.R",
+    "project_path" : "funcoes-em-R.R",
+    "properties" : {
+        "cursorPosition" : "26,0",
+        "scrollLine" : "18",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
