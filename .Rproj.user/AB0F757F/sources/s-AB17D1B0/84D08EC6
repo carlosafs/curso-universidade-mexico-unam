@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1559856333296.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3315630141",
+    "id" : "84D08EC6",
+    "lastKnownWriteTime" : 1559860573,
+    "last_content_update" : 1559860573482,
+    "path" : "~/CURSOS DATA SCIENCE/introdução a data science - estatística - Universidade do México/Introducción a Data Science Programación Estadística con R/Espressoes-Regulares.R",
+    "project_path" : "Espressoes-Regulares.R",
+    "properties" : {
+        "cursorPosition" : "3,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
