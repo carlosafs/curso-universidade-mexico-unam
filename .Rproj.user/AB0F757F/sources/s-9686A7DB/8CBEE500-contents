@@ -1,6 +1,0 @@
-
-
-library("swirl")
-select_language()
-
-swirl ()
